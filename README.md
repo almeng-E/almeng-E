@@ -1,4 +1,8 @@
-## Hi there 👋
+## 안녕하세요👋
+😊 SSAFY 13기 교육중 !
+
+
+
 
 <!--
 **almeng-E/almeng-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
