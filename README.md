@@ -9,6 +9,8 @@
 ### SSAFY 
 - 25.02.18 : A+ 형 취득
 - ~ : B 형 도전중...
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj98123)](https://solved.ac/cj98123/)
 
 
