@@ -2,8 +2,9 @@
 😊 SSAFY 13기 교육중 !
 
 ### 명지대학교 `아랍지역학과`, `인문ICT콘텐츠 융합전공`
-- 
-
+- 캡스톤 디자인 :  [유튜브 대본 기반 채널 분석 서비스 (대학교 채널)](https://github.com/almeng-E/mju-capstone-design)
+  + 코딩을 거의 모를 때 langchain으로 프로그래밍 입문
+ 
 ### 백준 
 - 25.01.28 : 골드 5 달성 <br>
 - 25.04.17 : 플레티넘 5 달성 !
@@ -11,6 +12,7 @@
 ### SSAFY 
 - 25.02.18 : A+ 형 취득
 - ~ : B 형 도전중...
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj98123)](https://solved.ac/cj98123/)
