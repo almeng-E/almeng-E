@@ -1,6 +1,8 @@
 ## 안녕하세요👋
 😊 SSAFY 13기 교육중 !
 
+### 명지대학교 `아랍지역학과`, `인문ICT콘텐츠 융합전공`
+- 
 
 ### 백준 
 - 25.01.28 : 골드 5 달성 <br>
@@ -14,8 +16,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj98123)](https://solved.ac/cj98123/)
 
 
-
-![](./profile-3d-contrib/profile-night-view.svg)
 <!--
 **almeng-E/almeng-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
