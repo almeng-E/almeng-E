@@ -38,6 +38,18 @@
 -   **FE 총괄**: React와 TypeScript 기반의 FE 개발 환경을 구축하고, Git 전략 수립 및 코드 리뷰를 통해 프로젝트를 성공적으로 완성했습니다.
 
 ---
+#### MiniPJT 
+- AI RAG project (**팀장**/RAG 설계·평가/BE)
+`2025.06` `Langchain` `RAG` `Fast API` `Git`
+
+- 도서 커뮤니티 & 독후감 작성 도우미 챗봇 (**팀장**/FE + BE/Git 관리/챗봇 설계·평가)
+`2025.05` `Django DRF` `REST API` `ChatBot` `Vue.js` `Git`
+
+- 캡스톤디자인: 유튜브 대본 기반 채널 분석 서비스 (대학교 채널) (데이터 수집 with Langchain)
+`2024.11 ~ 2024.12` `Langchain`
+
+
+---
 
 ## 🛠️ Skills
 
