@@ -19,8 +19,6 @@
 
 ## 🛠️ Skills
 
-<br>
-
 - **Languages**: `Python`, `JavaScript`, `TypeScript`
 - **Frontend**: `VanillaJS`, `React`, `Vue.js`, `Konva.js`
 - **AI**: `LangChain`, `Prompt Engineering` (CoT, Few-shot), `RAG Pipelines`
@@ -30,20 +28,16 @@
 
 
 ---
-
-##🎓 Education & Certificate
-
-<br>
+## 🎓 Education & Certificate
 
 - **SSAFY 13기** (비전공자 Python 트랙 **우수 수료**) (2025.01 ~ 현재)
 - **명지대학교** 아랍지역학과, 인문ICT콘텐츠 융합전공 (2019 ~ 2025)
-- **Samsung SW Test** A+
 - **OPIc** AL
+- **Samsung SW Test** A+ (모의)
 
 ---
 
 ## 🚀 Projects
-<br>
 
 <details>
 <summary>1. 삼성전자 네트워크사업부 열해석 자동화 플랫폼 <b>(팀장 / FE Architect)</b></summary>
