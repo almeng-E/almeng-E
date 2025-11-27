@@ -106,7 +106,7 @@
 
 <br>
 
-- **Baekjoon** Platinum 3  
+- **Baekjoon** Platinum 2  
 - **Samsung SW Certificate** Advanced +
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj98123)](https://solved.ac/cj98123/)
