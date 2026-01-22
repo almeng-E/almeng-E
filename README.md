@@ -148,6 +148,8 @@
     * 참여도 저조 문제를 해결하기 위해 '공유 문화'를 정착시켜 참여율 30% → 80% 달성.
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj98123)](https://solved.ac/cj98123/)
+![baekjoon profile](http://mazandi.herokuapp.com/api?handle=cj98123&theme=warm)
+
 
 ### 🧗‍♂️ 커뮤니케이션 역량 (강사 경험)
 * **상대방의 언어로 소통**: 클라이밍 강사 시절, 수의학 전공 수강생에게 '삼지점'을 '무게중심과 벡터'의 원리로 설명하여 성과를 낸 경험이 있습니다.
