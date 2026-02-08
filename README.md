@@ -9,7 +9,7 @@
 이후 삼성청년SW·AI아카데미를 우수 수료하며, 그 과정에서 **알고리즘 역량**과 **구현 역량**을 함양하여 여러 프로젝트들을 성공적으로 이끌었습니다.
 
 ---
-PORTFOLIO : [almeng-e.life](www.almeng-e.life)
+PORTFOLIO : [almeng-e.life](https://www.almeng-e.life)
 
 ---
 
