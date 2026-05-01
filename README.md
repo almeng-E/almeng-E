@@ -18,7 +18,7 @@ PORTFOLIO : [almeng-e.life](https://www.almeng-e.life)
 - **성능 최적화 역량**: 웹 캔버스 렌더링 성능 최적화 (780ms → 12ms) 및 공간 분할 알고리즘 도입 경험.
 - **유저 중심 기획 역량**: 400여 명의 실무자 VoC를 기반으로 업무 프로세스를 디지털 스레드(Digital Thread)로 구축.
 - **소통과 리더십**: 2년간의 강사 경험과 13회(학부 10회/ SSAFY 3회) 프로젝트 팀장 경험을 통해 조직의 이해관계를 조율한 경험.
-- **알고리즘 역량**: 백준 Platinum 1 (상위1%) 역량 및 300일동안 매일 문제풀이 중.
+- **알고리즘 역량**: 백준 Diamond V (상위1%) 역량 및 300일동안 매일 문제풀이 중.
 - **AI 적용 역량**: LLM/LMM을 활용한 RAG 파이프라인 구축 및 서비스 기능 고도화.
 
 ---
@@ -144,14 +144,13 @@ PORTFOLIO : [almeng-e.life](https://www.almeng-e.life)
 ## 🧩 **추가 역량**
 
 ### 📐 Algorithm Solving
-* **Baekjoon Platinum 1** (상위 1%)
+* **Baekjoon Diamond 5** (상위 1%)
 * 삼성SW역량평가 A+ (모의)
 * **DP 스터디 주최 경험**:
     * 스터디장으로서 학습 자료 제작 및 핵심 문제 큐레이션 진행.
     * 참여도 저조 문제를 해결하기 위해 '공유 문화'를 정착시켜 참여율 30% → 80% 달성.
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj98123)](https://solved.ac/cj98123/)
-![baekjoon profile](http://mazandi.herokuapp.com/api?handle=cj98123&theme=warm)
 
 
 ### 🧗‍♂️ 커뮤니케이션 역량 (강사 경험)
