@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://www.almeng-e.life"><img src="https://img.shields.io/badge/Portfolio-almeng--e.life-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6"><img src="https://img.shields.io/badge/Portfolio-almeng--e-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:min5024@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/almeng-E"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://almeng-e.tistory.com/"><img src="https://img.shields.io/badge/tistory-20C997?style=for-the-badge&logo=tistory&logoColor=white"/></a>
@@ -86,7 +86,7 @@
 
 > [!TIP]
 > 각 프로젝트의 **주요 역할**과 **핵심 성과**만 요약했습니다. <br/>
-> `문제 정의 → 기술 의사결정 → 정량 성과`의 전체 서사와 트레이드오프(공간 분할 알고리즘 후보 비교, AI 파이프라인 설계 등)는 [포트폴리오](https://www.almeng-e.life)에서 확인하실 수 있습니다.
+> `문제 정의 → 기술 의사결정 → 정량 성과`의 전체 서사와 트레이드오프(공간 분할 알고리즘 후보 비교, AI 파이프라인 설계 등)는 [포트폴리오](https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6)에서 확인하실 수 있습니다.
 
 <br/>
 
@@ -102,7 +102,7 @@
 | **②** Konva.js 캔버스 렌더링 최적화 · `Uniform Grid` 공간 해싱 직접 적용(`O(N)→평균 O(1)`) | 드래그 다중 선택 **780ms → 12ms (98%↓)**, **60fps** 확보 |
 | **③** VanillaJS 상태관리 아키텍처 직접 설계 · 단일 Store + `Pub-Sub` EventBus | 기능 추가 시 수정 파일 **4~5개 → 1곳**, 정합성·디버깅 비용 구조적 감소 |
 
-📖 **[의사결정·트레이드오프 자세히 보기 →](https://www.almeng-e.life)**
+📖 **[의사결정·트레이드오프 자세히 보기 →](https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6)**
 
 <br/>
 
@@ -118,7 +118,7 @@
 | **②** 유아 접근성 연구 기반 Non-typing UX · `Atomic Design` 컴포넌트 직접 구축(터치 타깃 96px) | 글을 모르는 3~6세 유아도 주체적으로 사용 가능한 인터페이스 완성 |
 | **③** 캡셔닝 메타데이터 레이어 + `Text2Img` 병렬 AI 파이프라인 설계 | 10p 생성 **4분 → 1분 (약 75%↓)**, 캐릭터·스타일 연속성 일관 유지 |
 
-📖 **[AI 파이프라인 설계 자세히 보기 →](https://www.almeng-e.life)**
+📖 **[AI 파이프라인 설계 자세히 보기 →](https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6)**
 
 <br/>
 
@@ -176,6 +176,6 @@
 
 ### 저는 사용자의 문제에서 출발해, 화면과 흐름을 바꾸는 기술적 선택으로 답을 찾습니다.
 
-<a href="https://www.almeng-e.life"><img src="https://img.shields.io/badge/🌐_더_많은_이야기는_포트폴리오에서-almeng--e.life-2563EB?style=for-the-badge"/></a>
+<a href="https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6"><img src="https://img.shields.io/badge/🌐_더_많은_이야기는_포트폴리오에서---2563EB?style=for-the-badge"/></a>
 
 </div>
