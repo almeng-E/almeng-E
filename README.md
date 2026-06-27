@@ -9,7 +9,6 @@
 <a href="https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6"><img src="https://img.shields.io/badge/Portfolio-almeng--e-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:min5024@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/almeng-E"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://almeng-e.tistory.com/"><img src="https://img.shields.io/badge/tistory-20C997?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 <a href="https://velog.io/@cj98123"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 <a href="https://solved.ac/profile/cj98123"><img src="https://img.shields.io/badge/BOJ-Diamond_V-00B8FC?style=for-the-badge"/></a>
 
