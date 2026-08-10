@@ -38,7 +38,7 @@
 ---
 
 ### 🚧 Now — 진행 중
-
+<!--
 **Robot Fleet Monitoring** &nbsp;·&nbsp; `React` `TypeScript` `React Three Fiber` `WebSocket` `FastAPI` &nbsp;·&nbsp; `Learning · WIP`
 
 > 다수 로봇의 상태·이동 경로를 한 화면에서 파악하는 웹 기반 3D 관제 인터페이스를 만들며 **Three.js · WebSocket 실시간 통신 · TDD**를 익히고 있습니다. 현재 기획·설계를 마치고 구현에 착수하는 단계입니다.
@@ -48,7 +48,7 @@
 > - 테스트를 먼저 작성(TDD)해 상태·렌더링 로직 검증
 >
 > <a href="https://github.com/almeng-E/robot-fleet">Repository&nbsp;<img src="https://api.iconify.design/lucide/external-link.svg?color=%232563EB" height="13" /></a>
-
+-->
 <!-- 새 진행 프로젝트는 위 형식으로 추가. 링크/repo는 있으면 붙이고 없으면 생략. -->
 
 ---
