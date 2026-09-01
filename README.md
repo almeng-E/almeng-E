@@ -1,8 +1,8 @@
 <div align="center">
 
-# 최원민 · Frontend Engineer
+# 최원민 · Engineer
 
-**사용자의 진짜 문제를 정의하고, 목적에 맞는 프론트엔드 기술로 답을 만듭니다.**
+**사용자의 진짜 문제를 정의하고, 목적에 맞는 기술로 답을 만듭니다.**
 
 <a href="https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:min5024@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
