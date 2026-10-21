@@ -1,26 +1,26 @@
-[포트폴리오](https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6)&nbsp;&nbsp;&nbsp;
-[블로그](https://velog.io/@cj98123)&nbsp;&nbsp;&nbsp;
-[solved.ac](https://solved.ac/profile/cj98123)
-
-<br>
+<p align="center">
+  <a href="https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6">포트폴리오</a>
+  &ensp;|&ensp;
+  <a href="https://velog.io/@cj98123">블로그</a>
+  &ensp;|&ensp;
+  <a href="https://solved.ac/profile/cj98123">solved.ac</a>
+</p>
 
 ## 이력
 
 ### 2026
 
-- 💼 챗봇, 보이스봇 개발 (2026.09 ~ )
+- 💼 챗봇, 보이스봇 개발   <sub>09월~now</sub>
 
 ### 2025
 
-- **삼성전자 DX 네트워크사업부 연계 프로젝트** / 팀장, FE 개발 (2025.08 ~ 2025.11)   
-- **SSAFY 13기** / 우수 수료, 프로젝트 팀장 3회  (2025.01 ~ 2025.12)
-- **명지대학교** / 아랍지역학과, 인문ICT콘텐츠 융합전공 졸업
+- **삼성전자 DX 네트워크사업부 연계 프로젝트** / 팀장, FE 개발   <sub>08~11월</sub>
+- **SSAFY 13기** / 우수 수료, 프로젝트 팀장 3회   <sub>01~12월</sub>
+- **명지대학교** / 아랍지역학과, 인문ICT콘텐츠 융합전공 졸업   <sub>~02월</sub>
 
 ### 2024
-- **학부 캡스톤 디자인** / 데이터 수집 및 AI Langchain 기능 개발 
 
-<br>
-
+- **학부 캡스톤 디자인** / 데이터 수집 및 AI LangChain 기능 개발   <sub>11–12월</sub>
 ## 역량과 기록
 
 <table>
