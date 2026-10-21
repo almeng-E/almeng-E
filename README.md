@@ -1,24 +1,27 @@
-<p align="center">
-  <a href="https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6">포트폴리오</a>
-  &ensp;|&ensp;
-  <a href="https://velog.io/@cj98123">블로그</a>
-  &ensp;|&ensp;
-  <a href="https://solved.ac/profile/cj98123">solved.ac</a>
-</p>
+<h2>
+  <a href="https://solved.ac/profile/cj98123">
+    <img align="right" src="https://img.shields.io/badge/solved.ac-555555?style=flat-square" alt="solved.ac">
+  </a>
+  <a href="https://velog.io/@cj98123">
+    <img align="right" src="https://img.shields.io/badge/Blog-555555?style=flat-square" alt="블로그">
+  </a>
+  <a href="https://woolly-output-00a.notion.site/Full-370677e046958165a959f80d4694fdd6">
+    <img align="right" src="https://img.shields.io/badge/Portfolio-555555?style=flat-square" alt="포트폴리오">
+  </a>
+  👋 안녕하세요, 개발자 최원민입니다.
+</h2>
 
-## 이력
-
-### 2026
+### *2026*
 
 - 💼 챗봇, 보이스봇 개발   <sub>09월~now</sub>
 
-### 2025
+### *2025*
 
 - **삼성전자 DX 네트워크사업부 연계 프로젝트** / 팀장, FE 개발   <sub>08~11월</sub>
 - **SSAFY 13기** / 우수 수료, 프로젝트 팀장 3회   <sub>01~12월</sub>
 - **명지대학교** / 아랍지역학과, 인문ICT콘텐츠 융합전공 졸업   <sub>~02월</sub>
 
-### 2024
+### *2024*
 
 - **학부 캡스톤 디자인** / 데이터 수집 및 AI LangChain 기능 개발   <sub>11–12월</sub>
 ## 역량과 기록
